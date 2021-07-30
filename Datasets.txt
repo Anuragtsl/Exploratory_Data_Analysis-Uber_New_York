@@ -1,8 +1,5 @@
 You have to download data from link below
 
-Steps:
-
-1.) Link to Download datasets :- https://drive.google.com/drive/folders/16j57nPhBASKb-wuBmbLfh1UUW7R0ZDqG?usp=sharing
-2.) Go to "uber-pickups-in-new-york-city" folder and download that folder for datasets.
+Kaggle Link:- https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
 
 As this is Big data, So can't be uploaded due to upload limit restrictions!!
